@@ -24,7 +24,7 @@
 6. 문제 풀이나 발표를 가지고 서로 피드백
 7. 스터디장의 피드백으로 종료
 
-### 🛰️ 스터디 진행
+## 🛰️ 스터디 진행
 #### 만나는 장소 
 : 온라인 [디스코드](https://discord.gg/zQBZYBWt) 및 [노션](https://www.notion.so/26eb7435cd3a4a3a80cf2bfad33c3ee1?pvs=4) 및 [깃허브](https://github.com/che2ese/Dongguk_StudyGroup)
 
