@@ -1,5 +1,8 @@
 # Dongguk_StudyGroup
 
+## 🧑‍🤝‍🧑 우리의 저장소
+[![Gmail Badge](https://img.shields.io/badge/Notion-#000000?style=flat-square&logo=Gmail&logoColor=black&link=mailto:https://www.notion.so/26eb7435cd3a4a3a80cf2bfad33c3ee1?pvs=4)](https://www.notion.so/26eb7435cd3a4a3a80cf2bfad33c3ee1?pvs=4)
+
 # 📖 C 스터디
 현재 인원 : 5명 
 
