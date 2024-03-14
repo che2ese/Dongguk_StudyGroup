@@ -14,7 +14,7 @@
 
 |김민성|이태섭|오혜원|구은지|황승민|
 |:---:|:---:|:---:|:---:|:---:|
-|<img src="https://github.com/che2ese/Dongguk_StudyGroup/assets/141838530/e59d871d-96b4-4773-b7b1-3e39b8a24328" alt="증사" style="width: 50%; height: auto;">|<img src="https://github.com/che2ese/Dongguk_StudyGroup/assets/141838530/dcfcc569-dd0e-4ad2-a876-1c16205002f6" alt="KakaoTalk_20240315_022249017" style="width: 50%; height: auto;">|사진|사진|사진|
+|<img src="https://github.com/che2ese/Dongguk_StudyGroup/assets/141838530/e59d871d-96b4-4773-b7b1-3e39b8a24328" alt="증사" style="width: 50%; height: auto;">|![KakaoTalk_20240315_022249017](https://github.com/che2ese/Dongguk_StudyGroup/assets/141838530/40da151a-44ab-4e0c-9817-3836be8edd65)|사진|사진|사진|
 
 |[github](https://github.com/che2ese)|[github](https://github.com/TaesubLee)|[github](https://github.com/hyewon2da)|[github](https://github.com/eunji9)|[github](https://github.com/sxunxin)|
 
