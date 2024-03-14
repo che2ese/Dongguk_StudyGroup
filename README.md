@@ -15,7 +15,6 @@
 |김민성|이태섭|오혜원|구은지|황승민|
 |:---:|:---:|:---:|:---:|:---:|
 |사진|사진|사진|사진|사진|
-
 |[github](https://github.com/che2ese)|[github](https://github.com/TaesubLee)|[github](https://github.com/hyewon2da)|[github](https://github.com/eunji9)|[github](https://github.com/sxunxin)|
 
 
