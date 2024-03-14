@@ -15,7 +15,7 @@
 |김민성|이태섭|오혜원|구은지|황승민|
 |:---:|:---:|:---:|:---:|:---:|
 |사진|사진|사진|사진|사진|
-|김민성 [github](https://github.com/che2ese)|이태섭 [github](https://github.com/TaesubLee)|오혜원 [github](https://github.com/hyewon2da)|구은지 [github](https://github.com/eunji9)|황승민 [github](https://github.com/sxunxin)|
+|김민성 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/che2ese)|이태섭 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/TaesubLee)|오혜원 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/hyewon2da)|구은지 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/eunji9)|황승민 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/sxunxin)|
 
 
 오프라인 / 온라인 운영
