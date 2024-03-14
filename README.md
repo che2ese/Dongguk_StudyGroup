@@ -32,7 +32,7 @@
 
 ## 🛰️ 스터디 진행
 #### 만나는 장소 
-: 온라인 [디스코드](https://discord.gg/zQBZYBWt)
+: 온라인 [<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>](https://discord.gg/zQBZYBWt)
 
 : 오프라인 [동국대학교 중앙도서관 4층 예정]
 
