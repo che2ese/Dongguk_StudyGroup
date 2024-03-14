@@ -27,6 +27,9 @@
 ### 🛰️ 스터디 진행
 #### 만나는 장소 
 : 온라인 [디스코드](https://discord.gg/zQBZYBWt) 및 [노션](https://www.notion.so/26eb7435cd3a4a3a80cf2bfad33c3ee1?pvs=4) 및 [깃허]
+
 : 오프라인 [동국대학교 중앙도서관 4층 예정]
+
+
 #### 만나는 시간
 : 매주 월요일 저녁 예
