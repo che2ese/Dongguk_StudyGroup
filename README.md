@@ -15,7 +15,7 @@
 |김민성|이태섭|오혜원|구은지|황승민|
 |:---:|:---:|:---:|:---:|:---:|
 |사진|사진|사진|사진|사진|
-|[github](https://github.com/che2ese)|[github](https://github.com/TaesubLee)|[github](https://github.com/hyewon2da)|[github](https://github.com/eunji9)|[github](https://github.com/sxunxin)|
+|[김민성의 github](https://github.com/che2ese)|[이태섭의 github](https://github.com/TaesubLee)|[오혜원의 github](https://github.com/hyewon2da)|[구은지의 github](https://github.com/eunji9)|[황승민의 github](https://github.com/sxunxin)|
 
 
 오프라인 / 온라인 운영
