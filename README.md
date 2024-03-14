@@ -3,7 +3,9 @@
 ## 🧑‍🤝‍🧑 우리의 저장소
   [<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/26eb7435cd3a4a3a80cf2bfad33c3ee1?pvs=4)
   [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/che2ese/Dongguk_StudyGroup)
+  [<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>](https://discord.gg/zQBZYBWt)
 
+  
 # 📖 C 스터디
 현재 인원 : 5명 
 
