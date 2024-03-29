@@ -1,5 +1,5 @@
-/*3. num1ÀÌ¶ó´Â ¼ýÀÚ¸¦ ÀÔ·Â¹Þ¾Æ 50º¸´Ù ÀÛÀ¸¸é num2´Â 0, Å©¸é 100À» Ãâ·ÂÇÏ´Â ÇÁ·Î±×·¥À» ¸¸µé¾îº¸ÀÚ
-(Á¶°Ç 3Ç× ¿¬»êÀÚ ÀÌ¿ë)*/
+/*3. num1ì´ë¼ëŠ” ìˆ«ìžë¥¼ ìž…ë ¥ë°›ì•„ 50ë³´ë‹¤ ìž‘ìœ¼ë©´ num2ëŠ” 0, í¬ë©´ 100ì„ ì¶œë ¥í•˜ëŠ” í”„ë¡œê·¸ëž¨ì„ ë§Œë“¤ì–´ë³´ìž
+(ì¡°ê±´ 3í•­ ì—°ì‚°ìž ì´ìš©)*/
 
 #include <stdio.h>
 int main(void)
@@ -11,4 +11,4 @@ int main(void)
 
 	printf("NUM2: %d", num2);
 	return 0;
-}//70 ³Ö¾ú´Âµ¥ ¿Ö 0À¸·Î ³ª¿À´Â°ÅÁö
+}
