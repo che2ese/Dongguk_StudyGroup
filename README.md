@@ -12,12 +12,12 @@
 ### 🧑‍🎓 인원
 
 
-|김민성|이태섭|오혜원|구은지|황승민|
-|:---:|:---:|:---:|:---:|:---:|
-|멀티미디어<br>소프트웨어전공|산업시스템공학과|산업시스템공학과|산업시스템공학과|산업시스템공학과|
-|사진|사진|사진|사진|사진|
-|김민성 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/che2ese)|이태섭 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/TaesubLee)|오혜원 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/hyewon2da)|구은지 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/eunji9)|황승민 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/sxunxin)|
-|백엔드, 게임|백엔드, AI|백엔드|프론트엔드, AI|프론트엔드, 게임|
+|김민성|이태섭|오혜원|<del>구은지</del>|황승민|최은서|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|멀티미디어<br>소프트웨어전공|산업시스템공학과|산업시스템공학과|산업시스템공학과|산업시스템공학과|산업시스템공학과|
+|사진|사진|사진|사진|사진|사진|
+|김민성 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/che2ese)|이태섭 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/TaesubLee)|오혜원 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/hyewon2da)|구은지 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/eunji9)|황승민 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/sxunxin)|최은서 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/Ireneldia)|
+|백엔드, 게임|백엔드, AI|백엔드|프론트엔드, AI|프론트엔드, 게임|AI, 게임|
 
 
 오프라인 / 온라인 운영
