@@ -6,37 +6,31 @@
   [<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>](https://discord.gg/zQBZYBWt)
 
   
-# 📖 C 스터디
+# 📖 C -> JAVA 스터디
 현재 인원 : 5명 
 
 ### 🧑‍🎓 인원
 
 
-|김민성|이태섭|오혜원|구은지|황승민|
-|:---:|:---:|:---:|:---:|:---:|
-|멀티미디어<br>소프트웨어전공|산업시스템공학과|산업시스템공학과|산업시스템공학과|산업시스템공학과|
-|사진|사진|사진|사진|사진|
-|김민성 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/che2ese)|이태섭 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/TaesubLee)|오혜원 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/hyewon2da)|구은지 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/eunji9)|황승민 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/sxunxin)|
-|백엔드, 게임|백엔드, AI|백엔드|프론트엔드, AI|프론트엔드, 게임|
+|김민성|이태섭|오혜원|<del>구은지</del>|황승민|최은서|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|멀티미디어<br>소프트웨어전공|산업시스템공학과|산업시스템공학과|<del>산업시스템공학과</del>|산업시스템공학과|산업시스템공학과|
+|![민성](https://github.com/che2ese/Dongguk_StudyGroup/assets/141838530/4d4bce2d-8c3f-4955-847d-b555493811ce)|![태섭](https://github.com/che2ese/Dongguk_StudyGroup/assets/141838530/8833df7c-cba2-43ae-b603-fd1c7788fece)|![혜원](https://github.com/che2ese/Dongguk_StudyGroup/assets/141838530/cfdc5eae-e39c-463f-a291-158dbc890326)|![은지](https://github.com/che2ese/Dongguk_StudyGroup/assets/141838530/d579b52a-ab12-47c5-901c-6e7f8d7a0492)|![승민](https://github.com/che2ese/Dongguk_StudyGroup/assets/141838530/3a720e63-1705-499f-ac9f-5816caf7e8c3)|![은서](https://github.com/che2ese/Dongguk_StudyGroup/assets/141838530/96a5d158-e03a-4f26-b423-600e9c23f61f)|
+|김민성 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/che2ese)|이태섭 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/TaesubLee)|오혜원 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/hyewon2da)|<del>구은지</del> [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/eunji9)|황승민 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/sxunxin)|최은서 [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/Ireneldia)|
+|백엔드, 게임|백엔드, AI|백엔드|<del>프론트엔드, AI</del>|프론트엔드, 게임|AI, 게임|
 
 
 오프라인 / 온라인 운영
 
 
 ## 🥅 스터디 규칙
-1. C언어 입문자를 위해 1달간은 기초 강의로 진행
+1. C -> JAVA -> Spring
 
-2. 기초 강의가 끝나면 자료구조 학습 진행
+2. **매주 30문제 ( 공통문제 5문제 + 선착순 25문제 중 5문제를 가져가기) 인당 10문제씩 푸는 것을 목표로 할 것**
 
-3. 7,8월에는 공모전 참여
+3. 문제 풀이나 발표를 가지고 서로 피드백
 
-4. **매주 30문제 ( 공통문제 5문제 + 선착순 25문제 중 5문제를 가져가기) 인당 10문제씩 푸는 것을 목표로 할 것**
-
-5. 격주로 자신이 지금까지 본 강의와 푼 문제들을 발표 할 예정, 3명이 발표할 것
-
-6. 문제 풀이나 발표를 가지고 서로 피드백
-
-7. 스터디장의 피드백으로 종료
+4. 스터디장의 피드백으로 종료
 
 
 
