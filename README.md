@@ -6,7 +6,7 @@
   [<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>](https://discord.gg/zQBZYBWt)
 
   
-# 📖 C 스터디
+# 📖 C -> JAVA 스터디
 현재 인원 : 5명 
 
 ### 🧑‍🎓 인원
@@ -24,7 +24,7 @@
 
 
 ## 🥅 스터디 규칙
-1. C언어 입문자를 위해 1달간은 기초 강의로 진행
+1. C -> JAVA 입문자를 위해 1달간은 기초 강의로 진행
 
 2. 기초 강의가 끝나면 자료구조 학습 진행
 
